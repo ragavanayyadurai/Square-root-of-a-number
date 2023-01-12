@@ -33,9 +33,8 @@ print("Square root of the number:",newton_method(a)
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
+![square](https://user-images.githubusercontent.com/118749557/212143995-71ad2812-35fc-4059-8545-52bd234b1e24.png)
 
-(https://user-images.githubusercontent.com/118749557/212143058-72aee655-7c60-4b8a-8930-8bd6ecb3a01e.png)
 
 
 ## Result:
